@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import IntroView from './components/IntroView';
-import DashboardView from './components/DashboardView';
+import IntroView from './pages/IntroView';
+import DashboardView from './pages/DashboardView';
 import './index.css';
 
 export default function App() {

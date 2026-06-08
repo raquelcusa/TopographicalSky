@@ -15,7 +15,7 @@ export default function IntroView({ onStart }) {
       {/* NAVBAR */}
       <header className="intro-navbar">
         <div className="intro-brand">
-          <img src="public/logo-nimbo-logo.svg" alt="Nimbo" className="intro-logo" />
+          <img src="/icons/logo-nimbo-logo.svg" alt="Nimbo" className="intro-logo" />
           Nimbo
         </div>
       </header>
