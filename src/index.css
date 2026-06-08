@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { overflow-x: hidden; }
+body {
+  font-family: system-ui, -apple-system, open-sans, sans-serif;
+  background-color: #F4F7FC;
+  color: #1C2A3A;
+  -webkit-font-smoothing: antialiased;
+}
+.app-wrapper { min-height: 100vh; position: relative; }
