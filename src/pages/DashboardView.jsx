@@ -61,7 +61,7 @@ export default function DashboardView({ onBack }) {
       <div className="dash-map-area">
         <header className="dash-bg-map">
           <div className="dash-header">
-            <img src="public/logo-nimbo-logo.svg" alt="Nimbo Icon" className="dash-header-icon" />
+            <img src="/icons/logo-nimbo-logo.svg" alt="Nimbo Icon" className="dash-header-icon" />
             <div className="dash-title-box">
               <h1>{currentStage.title}</h1>
             </div>        
